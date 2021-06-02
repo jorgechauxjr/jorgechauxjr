@@ -32,6 +32,20 @@ Here are some ideas to get you started:
 [1]: https://www.linkedin.com/in/jorgechauxjr/
 [2]: https://twitter.com/jorgechauxjr
 
+## Github Stats
+
+<table align="center">
+	<tr>
+		<td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jorgechauxjr&show_icons=true&theme=highcontrast">
+		</td>
+		<td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgechauxjr&theme=highcontrast">
+		</td>
+	</tr>
+</table>
+<br>
+
 <h4 align="center">🚀 TECHNOLOGIES
 <br><br>
 <h4 align="center">
@@ -44,16 +58,4 @@ Here are some ideas to get you started:
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </h4>
-<br>
-
-<table align="center">
-	<tr>
-		<td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jorgechauxjr&show_icons=true&theme=highcontrast">
-		</td>
-		<td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgechauxjr&layout=compact&theme=highcontrast">
-		</td>
-	</tr>
-</table>
 <br>
