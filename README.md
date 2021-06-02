@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table>
-<br>
+
 
 <h4 align="center">🚀 TECHNOLOGIES
 <br><br>
