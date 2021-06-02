@@ -10,36 +10,48 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
+### Hi there, I'm [Jorge Chaux](https://www.linkedin.com/in/jorgechauxjr/) 👋
+<br>
+- 🔭 I studied fullstack software development at Holberton School (2019-2021)
+<br>
+- 👯 I'm open to work as a Frontend developer or Python developer
+<br>
+- ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
+<br>
+- 💬 Check out my blog: <a href="https://medium.com/@jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<br>
+- 📫 How to reach me: 
+<br>
 
-![](./assets/img/cover.png)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1][![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][2][![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)][3]
 
-# Jorge Chaux
-- Comprehensive: He is good at thinking of others before himself. Value the help and ideas.
-- Sociable: He is naturally good at attending social events. He prefers to be around people and likes to make new connections.
-- Software developer with 10 years of professional experience in English - Spanish simultaneous translation in conferences and preachings.
-- 10 Years of experience in public speaking and working with people as a preacher.
-- On May 2021 he finished the web-stack curriculum at Holberton School where he completed a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.
-## Education
-### Holberton School
-Holberton School is an academy in which education is project-based. It emphasizes learning through practice and increasingly difficult programming challenges to solve with minimal initial directions. Some of the projects developed by Jorge Chaux are:
-- Agora events: web application to create or attend to events. Stack used: MERN (MongoDB, Express, React and JavaScript)
+[1]: https://www.linkedin.com/in/jorgechauxjr/
+[2]: https://twitter.com/jorgechauxjr
+[3]: http://www.github.com/jorgechauxjr
 
-- Acua-kiwi project: Image detection project developed for kiwibots company (USA). Technologies used: Python, JavaScript, Unity, Tensorflow, numpy.
-
-- AirBnB clone project: web application composed by a command interpreter, a web-site (Front-end), database and API. The technologies used were Python, , mysql, JavaScript, Flask.
-
-Technologies:
-- C - Python - Html - Css - JavaScript - React
-
-After finishing the web stack specialization at Holberton School Jorge is interested in work as front-end developer.
- 
-### Contact:
-It is all about team work! Where you are weak I am strong and where you are strong I am weak. We need each other to success in our respective callings. That's what life is about.
-
-So, do not hesitate to write and contact Jorge:
-
-<a href="https://co.linkedin.com/in/jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-<a href="https://medium.com/@jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<br>
+<table align="center">
+	<tr>
+		<td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jorgechauxjr&show_icons=true&theme=highcontrast">
+		</td>
+		<td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgechauxjr&layout=compact&theme=highcontrast">
+		</td>
+	</tr>
+</table>
+<br>
+<h4 align="center">🚀 Technologies
+<br><br>
+<h4 align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <br>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</h4>
