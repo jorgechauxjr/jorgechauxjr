@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 ## Hi there, I'm [Jorge Chaux](https://www.linkedin.com/in/jorgechauxjr/) 👋
-<br>
 
 - 🔭 I studied fullstack software development at Holberton School (2019-2021)
 
@@ -22,9 +21,8 @@ Here are some ideas to get you started:
 
 - ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
 
-- 💬 Check out my blog: 
+- 💬 Check out my blog:
 <br><a href="https://medium.com/@jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<br>
 
 - 📫 How to reach me: chauxjorge@hotmail.com
 
