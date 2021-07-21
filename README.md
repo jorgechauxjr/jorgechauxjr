@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 - 🔭 I studied fullstack software development at Holberton School (2019-2021)
 
-- 👯 I'm open to work as a Frontend developer or Python developer
+- Holberton School is a full time project-based intensive program.
+
+- 👯 I'm open to work as a Frontend developer (JavaScript, React)
 
 
 - ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
