@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+
+<!--
+
 ## Hi there, I'm [Jorge Chaux](https://www.linkedin.com/in/jorgechauxjr/) 👋
 
 - 🔭 I studied fullstack software development at Holberton School (2019-2021)
@@ -20,6 +23,25 @@ Here are some ideas to get you started:
 
 - 👯 I'm open to work as a Frontend developer (JavaScript, React)
 
+
+- ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
+
+- 💬 Check out my blog:
+<br><a href="https://medium.com/@jorgechauxjr" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+
+- 📫 How to reach me: jorgechauxjr@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][2]
+
+[1]: https://www.linkedin.com/in/jorgechauxjr/
+[2]: https://twitter.com/jorgechauxjr
+
+-->
+
+## Hi there, I'm [Jorge Chaux](https://www.linkedin.com/in/jorgechauxjr/) 👋
+
+- 🔭 I’m currently working as Frontend Developer in Zemoga Inc
 
 - ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
 
