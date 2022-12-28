@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hi there, I'm [Jorge Chaux](https://www.linkedin.com/in/jorgechauxjr/) 👋
-
-- 🔭 I’m currently working as Frontend Developer in Zemoga Inc
+## Hi there, I'm Jorge Chaux 👋
 
 - ⚡ Quote: "If you reject someone for his weakness you are also rejecting his strengths"
 
@@ -50,10 +48,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: jorgechauxjr@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][1]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][2]
 
-[1]: https://www.linkedin.com/in/jorgechauxjr/
 [2]: https://twitter.com/jorgechauxjr
 
 ## Github Stats
